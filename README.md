@@ -9,6 +9,6 @@ Online E-commerce companies use various recommendation engines to recommend a va
 
 We have used Python Sckit, pandas, matplotlib like libraries.
 
-*Future Work*
+### *Future Work*
 
 Adding a large dataset, with much more features and with enhanced accuracy for prediction
